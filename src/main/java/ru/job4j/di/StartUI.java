@@ -1,4 +1,4 @@
-package ru.job4j_di;
+package ru.job4j.di;
 
 public class StartUI {
     private final Store store;
